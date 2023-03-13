@@ -1,6 +1,5 @@
 openai
 chromadb
 langchain
-tiktoken
 flask
 gunicorn
